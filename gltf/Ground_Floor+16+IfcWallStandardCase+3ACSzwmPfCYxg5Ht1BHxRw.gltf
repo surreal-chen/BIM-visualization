@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b6fa-body_1_0_positions",
+      "componentType": 5126,
+      "count": 54,
+      "min": [
+        -8.380189895629883,
+        -23.438758850097656,
+        17.8700008392334
+      ],
+      "max": [
+        -5.1699395179748535,
+        -23.328758239746094,
+        20.8700008392334
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b6fa-body_1_0_normals",
+      "componentType": 5126,
+      "count": 54,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b6fa-body_1_0_indices",
+      "componentType": 5123,
+      "count": 96,
+      "min": [
+        0
+      ],
+      "max": [
+        53
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Ground_Floor+16+IfcWallStandardCase+3ACSzwmPfCYxg5Ht1BHxRw",
+      "byteLength": 1488,
+      "uri": "data:application/octet-stream;base64,+QD5wJSCu8ExCKBBdxAGwZSCu8HD9aZBdxAGwZSCu8HD9Y5B0KTBwJSCu8ExCKBBJXClwJSCu8HD9aZB+QD5wJSCu8HD9Y5B0KTBwJSCu8HD9Y5BJXClwJSCu8HD9Y5BdxAGwZSCu8HD9Y5BQhUGwUyhusHD9Y5B+QD5wEyhusHD9Y5B+QD5wJSCu8HD9Y5B+QD5wJSCu8ExCKBB+QD5wJSCu8HD9Y5B+QD5wEyhusHD9Y5B+QD5wEyhusExCKBB0KTBwJSCu8ExCKBB+QD5wJSCu8ExCKBB+QD5wEyhusExCKBB0KTBwEyhusExCKBB0KTBwJSCu8HD9Y5B0KTBwJSCu8ExCKBB0KTBwEyhusExCKBB0KTBwEyhusHD9Y5B0KTBwJSCu8HD9Y5B0KTBwEyhusHD9Y5BIgWpwEyhusHD9Y5BJXClwJSCu8HD9Y5B4H+lwEyhusHD9Y5BJXClwJSCu8HD9aZBJXClwJSCu8HD9Y5B4H+lwEyhusHD9Y5B4H+lwEyhusHD9aZBIgWpwEyhusHD9aZBQhUGwUyhusHD9aZBdxAGwZSCu8HD9aZBJXClwJSCu8HD9aZB4H+lwEyhusHD9aZBQhUGwUyhusHD9aZBQhUGwUyhusHD9Y5BdxAGwZSCu8HD9Y5BdxAGwZSCu8HD9aZB0KTBwEyhusExCKBBIgWpwEyhusHD9aZBIgWpwEyhusHD9Y5BQhUGwUyhusHD9aZB+QD5wEyhusExCKBB0KTBwEyhusHD9Y5B+QD5wEyhusHD9Y5BQhUGwUyhusHD9Y5B4H+lwEyhusHD9aZB4H+lwEyhusHD9Y5BIgWpwEyhusHD9Y5BIgWpwEyhusHD9aZBAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/BfZ/P1n4jjwAAAAABfZ/P1n4jjwAAAAABfZ/P1n4jjwAAAAABfZ/P1n4jjwAAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/Svx/vylYLrwAAACASvx/vylYLrwAAACASvx/vylYLrwAAACASvx/vylYLrwAAACAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAABAAIAAQAAAAMAAQADAAQAAAACAAUAAwAGAAcABAADAAcACAAJAAoACwAIAAoADAANAA4ADAAOAA8AEAARABIAEAASABMAFAAVABYAFAAWABcAGAAZABoAGAAaABsAGwAaABwAHQAeAB8AIAAdAB8AIQAiACMAJAAhACMAJQAhACQAJgAnACgAKQAmACgAKgArACwAKwAqAC0ALQAqAC4AKgAsAC8ALgAwADEALQAuADEAMgAzADQANQAyADQA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 648,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 648,
+      "byteOffset": 648,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 1296,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-10445-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b6fa-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b6fa-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

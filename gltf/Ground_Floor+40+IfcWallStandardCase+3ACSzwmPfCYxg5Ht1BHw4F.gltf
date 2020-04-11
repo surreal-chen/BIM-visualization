@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47a10f-body_1_0_positions",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        -6.493062496185303,
+        6.734428405761719,
+        17.8700008392334
+      ],
+      "max": [
+        -4.466249942779541,
+        6.8044281005859375,
+        20.719999313354492
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47a10f-body_1_0_normals",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47a10f-body_1_0_indices",
+      "componentType": 5123,
+      "count": 96,
+      "min": [
+        0
+      ],
+      "max": [
+        47
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Ground_Floor+40+IfcWallStandardCase+3ACSzwmPfCYxg5Ht1BHw4F",
+      "byteLength": 1344,
+      "uri": "data:application/octet-stream;base64,heuOwOC92UCPwqVBptu1wOC92UA9CqBBK8fPwOC92UCPwqVBxGDJwOC92UA9CqBBheuOwOC92UDD9Y5Bptu1wOC92UBmZpFBxGDJwOC92UBmZpFBK8fPwOC92UDD9Y5BheuOwHCA10CPwqVBheuOwHCA10DD9Y5BheuOwOC92UDD9Y5BheuOwOC92UCPwqVBK8fPwHCA10DD9Y5BK8fPwOC92UDD9Y5BheuOwOC92UDD9Y5BheuOwHCA10DD9Y5BheuOwOC92UCPwqVBK8fPwOC92UCPwqVBK8fPwHCA10CPwqVBheuOwHCA10CPwqVBK8fPwOC92UCPwqVBK8fPwOC92UDD9Y5BK8fPwHCA10DD9Y5BK8fPwHCA10CPwqVBxGDJwHCA10BmZpFBptu1wHCA10BmZpFBptu1wOC92UBmZpFBxGDJwOC92UBmZpFBptu1wHCA10BmZpFBptu1wHCA10A9CqBBptu1wOC92UA9CqBBptu1wOC92UBmZpFBptu1wHCA10A9CqBBxGDJwHCA10A9CqBBxGDJwOC92UA9CqBBptu1wOC92UA9CqBBxGDJwHCA10A9CqBBxGDJwHCA10BmZpFBxGDJwOC92UBmZpFBxGDJwOC92UA9CqBBK8fPwHCA10CPwqVBxGDJwHCA10A9CqBBptu1wHCA10A9CqBBheuOwHCA10CPwqVBxGDJwHCA10BmZpFBK8fPwHCA10DD9Y5Bptu1wHCA10BmZpFBheuOwHCA10DD9Y5BAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAABAAIAAgABAAMAAQAAAAQAAQAEAAUABgAFAAcAAwAGAAcABQAEAAcAAwAHAAIACAAJAAoACwAIAAoADAANAA4ADwAMAA4AEAARABIAEAASABMAFAAVABYAFwAUABYAGAAZABoAGAAaABsAHAAdAB4AHAAeAB8AIAAhACIAIAAiACMAJAAlACYAJAAmACcAKAApACoAKAAqACsALAApAC0ALAAtAC4AKgAuAC8AKwAqAC8AKQAoAC0ALgAtAC8A"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 576,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 1152,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-10445-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47a10f-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47a10f-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

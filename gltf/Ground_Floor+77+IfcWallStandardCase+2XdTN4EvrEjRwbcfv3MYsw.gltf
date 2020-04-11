@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-a19dd5c4-3b9d-4eb5-bea5-9a9e435a2dba-body_1_0_positions",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        -0.8491061925888062,
+        14.399374008178711,
+        17.8700008392334
+      ],
+      "max": [
+        0.9329378008842468,
+        14.46937370300293,
+        20.719999313354492
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-a19dd5c4-3b9d-4eb5-bea5-9a9e435a2dba-body_1_0_normals",
+      "componentType": 5126,
+      "count": 48,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-a19dd5c4-3b9d-4eb5-bea5-9a9e435a2dba-body_1_0_indices",
+      "componentType": 5123,
+      "count": 84,
+      "min": [
+        0
+      ],
+      "max": [
+        47
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Ground_Floor+77+IfcWallStandardCase+2XdTN4EvrEjRwbcfv3MYsw",
+      "byteLength": 1320,
+      "uri": "data:application/octet-stream;base64,A9VuP46CZ0GPwqVBV0mVPY6CZ0FMN59BBl9Zv46CZ0GPwqVBRGkwv46CZ0FMN59BA9VuP46CZ0HD9Y5BV0mVPY6CZ0HD9Y5BRGkwv46CZ0HD9Y5BBl9Zv46CZ0HD9Y5BA9VuP9ZjZkHD9Y5BV0mVPdZjZkHD9Y5BA9VuP46CZ0HD9Y5BV0mVPY6CZ0HD9Y5BV0mVPdZjZkHD9Y5BV0mVPdZjZkFMN59BV0mVPY6CZ0FMN59BV0mVPY6CZ0HD9Y5BV0mVPdZjZkFMN59BRGkwv9ZjZkFMN59BRGkwv46CZ0FMN59BV0mVPY6CZ0FMN59BRGkwv9ZjZkFMN59BRGkwv9ZjZkHD9Y5BRGkwv46CZ0HD9Y5BRGkwv46CZ0FMN59BRGkwv9ZjZkHD9Y5BBl9Zv9ZjZkHD9Y5BRGkwv46CZ0HD9Y5BBl9Zv46CZ0HD9Y5BBl9Zv46CZ0GPwqVBBl9Zv46CZ0HD9Y5BBl9Zv9ZjZkHD9Y5BBl9Zv9ZjZkGPwqVBA9VuP46CZ0GPwqVBBl9Zv46CZ0GPwqVBBl9Zv9ZjZkGPwqVBA9VuP9ZjZkGPwqVBA9VuP9ZjZkGPwqVBA9VuP9ZjZkHD9Y5BA9VuP46CZ0HD9Y5BA9VuP46CZ0GPwqVBBl9Zv9ZjZkGPwqVBRGkwv9ZjZkFMN59BV0mVPdZjZkFMN59BA9VuP9ZjZkGPwqVBBl9Zv9ZjZkHD9Y5BRGkwv9ZjZkHD9Y5BV0mVPdZjZkHD9Y5BA9VuP9ZjZkHD9Y5BAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAACAvwAAAAAAAAAAAAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AAAAgAAAAIAAAIC/AACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAACAvwAAAIAAAACAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAABAAIAAgABAAMAAQAAAAQAAQAEAAUAAwAGAAcAAwAHAAIACAAJAAoACQALAAoADAANAA4ADAAOAA8AEAARABIAEAASABMAFAAVABYAFAAWABcAGAAZABoAGQAbABoAHAAdAB4AHwAcAB4AIAAhACIAIAAiACMAJAAlACYAJwAkACYAKAApACoAKAAqACsAKQAsAC0AKgAuAC8AKwAqAC8AKQAoACwA"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 576,
+      "byteOffset": 576,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 168,
+      "byteOffset": 1152,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-10445-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-a19dd5c4-3b9d-4eb5-bea5-9a9e435a2dba-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-a19dd5c4-3b9d-4eb5-bea5-9a9e435a2dba-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "accessors": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b97d-body_1_0_positions",
+      "componentType": 5126,
+      "count": 96,
+      "min": [
+        -1.6881614923477173,
+        -14.72921371459961,
+        17.8700008392334
+      ],
+      "max": [
+        0.37358230352401733,
+        -14.499214172363281,
+        20.8700008392334
+      ],
+      "type": "VEC3",
+      "bufferView": 0,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b97d-body_1_0_normals",
+      "componentType": 5126,
+      "count": 96,
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3",
+      "bufferView": 1,
+      "byteOffset": 0
+    },
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b97d-body_1_0_indices",
+      "componentType": 5123,
+      "count": 192,
+      "min": [
+        0
+      ],
+      "max": [
+        95
+      ],
+      "type": "SCALAR",
+      "bufferView": 2,
+      "byteOffset": 0
+    }
+  ],
+  "asset": {
+    "generator": "obj2gltf",
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "name": "Ground_Floor+5+IfcWallStandardCase+3ACSzwmPfCYxg5Ht1BHxbz",
+      "byteLength": 2688,
+      "uri": "data:application/octet-stream;base64,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"
+    }
+  ],
+  "bufferViews": [
+    {
+      "name": "bufferView_0",
+      "buffer": 0,
+      "byteLength": 1152,
+      "byteOffset": 0,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_1",
+      "buffer": 0,
+      "byteLength": 1152,
+      "byteOffset": 1152,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "name": "bufferView_2",
+      "buffer": 0,
+      "byteLength": 384,
+      "byteOffset": 2304,
+      "target": 34963
+    }
+  ],
+  "materials": [
+    {
+      "name": "surface-style-10445-ifcwallstandardcase",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.5,
+          0.5,
+          0.5,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE",
+      "doubleSided": false
+    }
+  ],
+  "meshes": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b97d-body_1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "product-ca31cf7a-c19a-4c8b-ba85-47704b47b97d-body",
+      "mesh": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
